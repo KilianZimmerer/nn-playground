@@ -1,7 +1,7 @@
 import torch
 import matplotlib.pyplot as plt
 import argparse
-from model import Model
+from src.model import Model
 from matplotlib.gridspec import GridSpec
 
 LAYER_SIZES = [10, 15, 10]
