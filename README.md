@@ -9,7 +9,7 @@ Visualize activiation functions.
 
 ```
 uv sync
-python run.py
+python run.py -o plots/nn-activations.png
 ```
 
 **sample visualization for y = x³ + x² + x +1**
