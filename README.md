@@ -2,6 +2,14 @@
 
 A playground to explore neural networks in depth.
 
+## Quick Start 🚀
+
+Install the project dependencies from `pyproject.toml` and activate the virtual environment.
+
+```bash
+uv sync
+source .venv/bin/activate
+```
 
 ## Activation Visualization
 
