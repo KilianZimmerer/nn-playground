@@ -21,8 +21,6 @@ source .venv/bin/activate
 Visualize activiation functions.
 
 ```
-uv sync
-source .venv/bin/activate
 python run.py -o plots/nn-activations.png
 ```
 
